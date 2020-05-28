@@ -16,5 +16,5 @@ for name in filenames:
 while True:
   for frame in frames:
     print(''.join(frame))
-    time.sleep(0.6)
+    time.sleep(0.2)
     clear()
